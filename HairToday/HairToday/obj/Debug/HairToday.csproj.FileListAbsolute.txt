@@ -1,0 +1,10 @@
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\bin\Debug\HairToday.exe.config
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\bin\Debug\HairToday.exe
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\bin\Debug\HairToday.pdb
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.csprojAssemblyReference.cache
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.Form1.resources
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.Properties.Resources.resources
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.csproj.GenerateResource.cache
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.csproj.CoreCompileInputs.cache
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.exe
+A:\Mohawk\Sem3\.NET\HairToday\HairToday\obj\Debug\HairToday.pdb
